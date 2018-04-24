@@ -27,7 +27,7 @@ player.start();
 ```
 再贴一张生命周期图<br />
 
-![](https://user-gold-cdn.xitu.io/2018/4/24/162f7ff816404ced?w=665&h=813&f=gif&s=23582)
+![](https://github.com/leo7723/MediaPlayer/blob/master/20160828235015958)
 
 
 ### 具体思路
